@@ -1,0 +1,6 @@
+---
+applications:
+- name: psuedo-fullstack-staging
+  memory: 256MB
+  services:
+   - passwords_service

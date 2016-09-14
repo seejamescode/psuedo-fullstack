@@ -1,0 +1,10 @@
+---
+applications:
+- name: psuedo-fullstack
+  hosts:
+      - psuedo-fullstack
+      - best-subdomain-ever
+  instances: 2
+  memory: 256MB
+  services:
+   - passwords_service

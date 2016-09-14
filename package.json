@@ -1,0 +1,19 @@
+{
+  "name": "psuedo-fullstack",
+  "version": "0.0.1",
+  "description": "Here we go!",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git"
+  },
+  "author": "James Rauhut <jamesrauhut@gmail.com> (https://github.com/seejamescode)",
+  "scripts": {
+    "test": "echo \"Error: no test specified.\""
+  },
+  "dependencies": {
+    "express": "*",
+    "file-exists": "^2.0.0",
+    "path": "*",
+    "request": "^2.74.0"
+  }
+}
